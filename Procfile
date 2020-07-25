@@ -1,0 +1,1 @@
+web: gunicorn thecardsapp.wsgi --log-file -
