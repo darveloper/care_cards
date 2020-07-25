@@ -1,0 +1,1 @@
+web: gunicorn carecards.wsgi --log-file -
